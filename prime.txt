@@ -1,0 +1,36 @@
+Process 14254 is Available now
+Numbers sent to Process 14254: 29243 2656 16723 19763 2537 24195 
+Process 14254 is busy now
+Process 14254 is Available now
+Numbers sent to Process 14254: 11391 5502 6766 11768 8190 25013 
+Process 14254 is busy now
+Process 14255 is Available now
+Numbers sent to Process 14255: 12579 13310 29603 18345 15036 12082 
+Process 14255 is busy now
+Process 14254 is Available now
+Numbers sent to Process 14254: 29037 2289 24045 27983 2744 8866 
+Process 14254 is busy now
+Process 14255 is Available now
+Numbers sent to Process 14255: 4567 22831 13572 17335 12564 27513 
+Process 14255 is busy now
+Process 14254 is Available now
+Numbers sent to Process 14254: 27214 29739 169 1868 7433 20639 
+Process 14254 is busy now
+Process 14257 is Available now
+Numbers sent to Process 14257: 26063 18825 14073 2828 18525 22263 
+Process 14257 is busy now
+Process 14255 is Available now
+Numbers sent to Process 14255: 15773 1103 23505 3308 7381 8540 
+Process 14254 is Available now
+Numbers sent to Process 14254: 3322 6417 28763 27367 22333 1506 
+Process 14255 is busy now
+Process 14254 is busy now
+Process 14257 is Available now
+Numbers sent to Process 14257: 6233 26900 12269 7737 14234 12765 
+Process 14257 is busy now
+Process 14258 is Available now
+Numbers sent to Process 14258: 5249 11447 12504 5418 1248 7869 
+Process 14258 is busy now
+numPrime == 2*k --- Killing all the child processes
+
+Numbers detected as prime are: 29243 4567 19763 25013 27983 7433 20639 27367 15773 1103 12269 11447 
